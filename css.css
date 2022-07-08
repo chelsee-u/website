@@ -1,0 +1,179 @@
+    #bg1 {
+        width:auto;
+        height: 300px;
+        background-color: #F8EDED;
+        margin-top: 0cm;
+    }
+    #personal {
+        padding-top: 80px;
+        margin:30px;
+        font-family: 'Yeseva One', cursive;
+        font-size: 40px ;
+        text-align: center;
+        color: #9d7c73
+    }
+    #portfolio {
+        margin-top: -50px ;
+        font-family: 'Yeseva One', cursive;
+        font-size: 55px;
+        text-align: center;
+        color:#9d7c73
+    }
+    #bg2 {
+        width: auto;
+        height: 1050px;
+        background-color: #EDF8F8;
+    }
+    #bi {
+        font-family: 'Caveat', cursive;
+        font-style: italic;
+        font-size: 80px;
+        text-align: center;
+        margin-top: 20px; 
+        padding-top: 15px;
+        color: #7A7C7D
+    }
+    #t1 {
+        max-height: 100%;
+        max-width: 100%;
+        margin-top:-20px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 50px;
+        position: relative;
+    }
+    #s1 {
+        padding: 0px;
+        margin-left:60px;
+        margin-right:60px;
+        height: 250px;;
+        width: 250px;
+    }
+    #name {
+        font-family: 'Parisienne', cursive;
+        font-size: 80px ;
+        font-weight:lighter;
+        text-align: center;
+        color: #BE9F29
+    }
+    #meaning {
+        font-family: 'DM Serif Display', serif;
+        font-weight: bolder;
+        font-size: 30px;
+    }
+    #t2 {
+        max-height: 100%;
+        max-width: 100%;
+        margin-top:20px;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+    }
+    #smleft {
+        font-family: 'DM Serif Display', serif;
+        font-size: 20px;
+        margin-left: -500px;
+        margin-top: 0px;
+    }
+    #smright {
+        font-family: 'DM Serif Display', serif;
+        font-size: 20px;
+        margin-right: -500px;
+        margin-top: 0px;
+    }
+    #leftphoto {
+        margin-right:10px;
+        padding: 0%
+    }
+    #rightphoto {
+        margin-left: 5px;
+        padding:0%
+    }
+    #bg3 {
+        width:auto;
+        height: 550px;
+        background-color: #FFFCCF;
+    }
+    #s2 {
+        padding: 0px;
+        margin-left: 60%;
+        height: 250px;;
+        width: 250px;
+    }
+    #aboutme {
+        text-align: center;
+        font-family: 'DM Serif Display', serif;
+        font-size: 65px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        padding-top: 15px;
+    }
+    p {
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        margin-bottom: 0%;
+        margin-left: 5px;
+        text-align: left;
+    }
+    #bg4 {
+        width:auto;
+        height: 500px;
+        background-color: #F6F3EE;
+    }
+    #educational {
+        font-family: 'DM Serif Display', serif;
+        font-size: 65px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: -20px;
+        padding-top: 15px;
+    }
+    #background {
+        font-family: 'DM Serif Display', serif;
+        font-size: 55px;
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    #m2logo {
+        height: 25%;
+        width: 25%;
+        margin-top: 0px;
+        margin-left: 240px;
+    }
+    #m2 {
+        font-family: 'Concert One', cursive;
+        font-weight: bolder;
+        font-size: 20px;
+        margin-top: 0px;
+        margin-right: 50px;
+        padding-top: 0px
+    }
+    #bg5 {
+        width:auto;
+        height: 400px;
+        background-color: #C0E8E4;
+    }
+    #project {
+        font-family: 'Original Surfer', cursive;
+        font-size: 75px;
+        color: #0D7267;
+        text-align: center;
+        padding-top: 15px;
+        margin-top: 20px
+    }
+    #ppw {
+        font-family: 'Rakkas', cursive;
+        font-size:40px;
+        color: #738B88;
+        margin-top: 20px;
+        margin-left: 5px;
+    }
+    #desc {
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 28px;
+        color: #114669;
+        font-weight: 600;
+        margin-top: 0px;
+        margin-left: 5px;
+    }
